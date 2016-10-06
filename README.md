@@ -2,4 +2,4 @@
 
 Es para ver *como funciona* **GitHub**.
 
-Agrego esta nueva linea :) Quedo fea! jeje
+Agrego esta nueva linea :) 
